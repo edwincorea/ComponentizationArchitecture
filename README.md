@@ -1,3 +1,6 @@
+Cloned from Juliano Moraes Repo.
+https://github.com/julianomoraes/componentizationArch
+
 # Netflix’s Android Componentization Architecture
 
 ## Sample code for Droidcon NYC 2018
